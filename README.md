@@ -12,7 +12,7 @@ This file contains the data used to create Figure 4. This is the same data as co
 
 4.) **MainAnalysisCode** is a folder that contains the following sets of scripts related to the main analysis described in the manuscript:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;a.) **README.txt** contains specific information for the files/scripts in this folder and information on each of the column headings and so forth<br />
-&nbsp;&nbsp;&nbsp;&nbsp;b.) **Runnable generalized linear models.R** this is the R script that can be used to run the analysis<br />
+&nbsp;&nbsp;&nbsp;&nbsp;b.) **Runnable generalized linear models_for_github.R** this is the R script that can be used to run the analysis. It reads in the 4 input files directly from github. Those 4 input files are (c., d., e., and f., below) and it outputs the glm_results.csv (file g. below) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;c.) **full_data.csv** is a dataset containing the full data<br />
 &nbsp;&nbsp;&nbsp;&nbsp;d.) **farming_and_mining_subset.csv** is a subset of the full dataset that contains only the farming and mining subset of the data<br />
 &nbsp;&nbsp;&nbsp;&nbsp;e.) **non_metro_subset.csv** is a subset of the full dataset that contains only the non-metro subset of the data<br />
