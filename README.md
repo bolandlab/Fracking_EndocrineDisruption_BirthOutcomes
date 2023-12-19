@@ -12,9 +12,9 @@ This file contains the data used to create Figure 4. This is the same data as co
 
 4.) MainAnalysisCode is a folder that contains the following sets of scripts related to the main analysis described in the manuscript:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;a.) **README.txt** contains specific information for the files/scripts in this folder and information on each of the column headings and so forth<br />
-  <pre>b.) **Runnable generalized linear models.R** this is the R script that can be used to run the analysis<br />
-  <pre>c.) **full_data.csv** is a dataset containing the full data<br />
-  <pre>d.) **farming_and_mining_subset.csv** is a subset of the full dataset that contains only the farming and mining subset of the data<br />
-  <pre>e.) **non_metro_subset.csv** is a subset of the full dataset that contains only the non-metro subset of the data<br />
-  <pre>f.) **unambiguous_subset.csv** is a subset of the full dataset that contains only the unambiguous states (this removes the 9-states that were not mandated to report their results to the FracFocus dataset and therefore would not necessarily be in WellExplorer either since WellExplorer uses the FracFocus dataset)<br />
-  <pre>g.) **glm_results.csv** is the output you should obtain after running the R script (**Runnable generalized linear models.R**)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;b.) **Runnable generalized linear models.R** this is the R script that can be used to run the analysis<br />
+&nbsp;&nbsp;&nbsp;&nbsp;c.) **full_data.csv** is a dataset containing the full data<br />
+&nbsp;&nbsp;&nbsp;&nbsp;d.) **farming_and_mining_subset.csv** is a subset of the full dataset that contains only the farming and mining subset of the data<br />
+&nbsp;&nbsp;&nbsp;&nbsp;e.) **non_metro_subset.csv** is a subset of the full dataset that contains only the non-metro subset of the data<br />
+&nbsp;&nbsp;&nbsp;&nbsp;f.) **unambiguous_subset.csv** is a subset of the full dataset that contains only the unambiguous states (this removes the 9-states that were not mandated to report their results to the FracFocus dataset and therefore would not necessarily be in WellExplorer either since WellExplorer uses the FracFocus dataset)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;g.) **glm_results.csv** is the output you should obtain after running the R script (**Runnable generalized linear models.R**)<br />
