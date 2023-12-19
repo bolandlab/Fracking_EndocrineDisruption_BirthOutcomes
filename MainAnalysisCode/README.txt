@@ -83,4 +83,4 @@ Please cite our paper (insert reference later) when using this code
 ##Authors
 Ella Poole
 Mary Regina Boland
-bolandm@upenn.edu
+mary.boland@stvincent.edu
